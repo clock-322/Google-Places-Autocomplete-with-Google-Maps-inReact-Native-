@@ -1,11 +1,11 @@
 import React,{Component} from 'react'
 
-import GeoLocator from './components/geoLocator'
+import AutoCompletePlace from './components/autoCompleteMaps'
 
 
 export default class App extends Component{
   render(){
-    return <GeoLocator/>
+    return <AutoCompletePlace/>
   }
 }
 
