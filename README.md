@@ -1,5 +1,5 @@
 # Google-Places-Autocomplete-with-Google-Maps-inReact-Native-
-In this project google-places-autocomplete and google maps are used. This module will autocomplete name of the place which user want to seach as you observer in [GOOGLE MAPS](https://www.google.com/maps) location search bar and also it will mark the searched place on map with a marker.
+In this project google-places-autocomplete and google maps are used. This module will autocomplete name of the place which user want to seach as you have observed in [GOOGLE MAPS](https://www.google.com/maps) location search bar and also it will mark the searched place on map with a marker.
 
 ## Getting started
 These instructions will get you a basic requirements to run this project.
@@ -13,6 +13,7 @@ These instructions will get you a basic requirements to run this project.
   * A module to transform a description of a location (i.e. street address, town name, etc.) into geographic coordinates (i.e. latitude and longitude) and vice versa.
 - [react-native-maps](https://www.npmjs.com/package/react-native-maps)
   * React Native Map components for iOS + Android.
+- [GOOGLE-MAPS-API](https://developers.google.com/maps/documentation/geolocation/get-api-key)
  
 ### `Installation`
 - This project was bootstrapped with [**expo init my-project**](https://docs.expo.io/versions/v36.0.0/).
